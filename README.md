@@ -16,7 +16,7 @@ Medications: Certain medications, such as sedatives and antidepressants, can cau
 Hormonal imbalances: Hypoarousal can be caused by changes in hormone levels, such as those that occur during menopause or pregnancy.<br />
 Chronic pain: Prolonged pain can lead to feelings of fatigue, depression, and apathy, which can result in hypoarousal.<br />
 Substance abuse: The abuse of drugs or alcohol can lead to hypoarousal.<br />
-Aging: As we age, our levels of arousal may naturally decrease.<br />
-If an individual feels overwhelmed or unable to focus, they may be experiencing an imbalance in their brain, falling outside their personal window of tolerance. These emotions are valid, and everyone experiences them differently. It's important to listen to your body and take a break when needed.<br />
+Aging: As we age, our levels of arousal may naturally decrease.<br /><br />
+If an individual feels overwhelmed or unable to focus, they may be experiencing an imbalance in their brain, falling outside their personal window of tolerance. These emotions are valid, and everyone experiences them differently. It's important to listen to your body and take a break when needed.<br /><br />
 Disclaimer: It's very important to note that as hyperarousal and hypoarousal can be symptoms of different conditions it's always best to seek medical advice if you think you are experiencing a tolerance imbalance. A healthcare professional will help you determine the underlying cause and provide appropriate treatment. Our goal is to simply help individuals understand how they are feeling and potentially provide some temporary relief.<br />
 We have also created a quiz for if you are unsure of how you are feeling, to get a better gauge of your current emotional status in order to better recommend a category of games that can help bring you back to their window of tolerance.<br />
