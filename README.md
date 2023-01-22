@@ -1,15 +1,15 @@
 # HackHer2023
 
-In psychology, arousal refers to the state of being physiologically alert, awake, and attentive. Our website provides fun and interactive resources to help individuals manage their levels of mental arousal and overstimulation. Arousal is primarily controlled by the reticular activating system in the brain, which can be easily influenced by various factors such as emotions, diet, and neurotransmitters.
-When the system slows down, individuals may experience feelings of sadness, withdrawal, lethargy, sleepiness, or difficulty concentrating. This is called hypoarousal, and playing games that uplift mood and energy can be beneficial. On the other hand, when the system speeds up, individuals may feel highly active, alert, and ready to respond to their environment. This can result in feelings of restlessness, irritability, and difficulty concentrating, known as hyperarousal. Playing games that provide a sense of ease and calm can be helpful in this case.
-There are many external factors that can lead to hyperarousal and hypoarousal which are out of individual's control:
-Hyper:
-Trauma or stress: Traumatic events such as abuse, accidents, and combat can lead to hyperarousal as a symptom of post-traumatic stress disorder (PTSD). Stressful situations, such as work or family problems, can also lead to hyperarousal.
+In psychology, arousal refers to the state of being physiologically alert, awake, and attentive. Our website provides fun and interactive resources to help individuals manage their levels of mental arousal and overstimulation. Arousal is primarily controlled by the reticular activating system in the brain, which can be easily influenced by various factors such as emotions, diet, and neurotransmitters.<br />
+When the system slows down, individuals may experience feelings of sadness, withdrawal, lethargy, sleepiness, or difficulty concentrating. This is called hypoarousal, and playing games that uplift mood and energy can be beneficial. On the other hand, when the system speeds up, individuals may feel highly active, alert, and ready to respond to their environment. This can result in feelings of restlessness, irritability, and difficulty concentrating, known as hyperarousal. Playing games that provide a sense of ease and calm can be helpful in this case.<br />
+There are many external factors that can lead to hyperarousal and hypoarousal which are out of individual's control:<br />
+Hyper:<br />
+Trauma or stress: Traumatic events such as abuse, accidents, and combat can lead to hyperarousal as a symptom of post-traumatic stress disorder (PTSD). Stressful situations, such as work or family problems, can also lead to hyperarousal.<br />
 Medical conditions: Certain medical conditions such as ADHD, anxiety disorders, and sleep disorders can cause hyperarousal.
-Substance abuse: The use of drugs or alcohol can lead to hyperarousal.
+Substance abuse: The use of drugs or alcohol can lead to hyperarousal.<br />
 Hormonal imbalances: Hyperarousal can be caused by changes in hormone levels, such as those that occur during menopause or pregnancy.
-Genetics: Some people may have a genetic predisposition to hyperarousal.
-Hypo:
+Genetics: Some people may have a genetic predisposition to hyperarousal. <br />
+Hypo:<br />
 Chronic fatigue: Prolonged periods of physical or mental exertion can lead to chronic fatigue, which can result in hypoarousal.
 Medical conditions: Certain medical conditions such as depression, anxiety, and sleep disorders can lead to hypoarousal.
 Medications: Certain medications, such as sedatives and antidepressants, can cause hypoarousal as a side effect.
